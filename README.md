@@ -1,4 +1,4 @@
-sorry could not complete the tasks by other clubs,assoc 
+sorry could not complete the task due to tasks by other clubs,assoc and tut tests coming next week 
 i completed the sarc frontend task link for which is here
 https://github.com/devgoe01/Sarc-Frontend-f20241016
 https://devgoe01.github.io/Sarc-Frontend-f20241016/my1st.html 
